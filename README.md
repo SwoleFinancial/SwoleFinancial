@@ -4,6 +4,13 @@ If you're currently reading this, our team's internal roadmap has long been comp
 
 Please note that our `$SWOLE` token is **NOT** available as of yet - stay connected and you will hear more about our presale.
 
+- [x] Create public facing GitHub for team
+- [x] Internal smart contract audit (Stage 1.0)
+- [x] Internal review of SwoleFi's Whitepaper `v1`
+- [ ] Create Twitter
+- [ ] Finalize Marketing Landing Page
+- [ ] Launch fair token pre-sale
+
 Stay pumped,
 
 SwoleFi Team 💪
