@@ -7,3 +7,6 @@ Please note that our `$SWOLE` token is **NOT** available as of yet - stay connec
 Stay pumped,
 
 SwoleFi Team 💪
+
+### Update
+Our team has already received alarming messages from some of you that there are others pretending to offer a pre-sale for our project - **THIS IS NOT TRUE** until our website is ready, please use this page for all further information. Thank you!
